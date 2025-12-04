@@ -105,3 +105,22 @@ wandb/
 resup_result/
 analysis_results/
 chronic_stress_visualizations/
+
+# Research Data (CSVs, Images, Videos)
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.mp4
+*.avi
+*.mov
+
+# Exceptions for templates and documentation
+!templates/*.csv
+!docs/assets/*.png
+
+# Virtual Environments
+venv/
+.venv/
+env/
