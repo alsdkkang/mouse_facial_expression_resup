@@ -41,8 +41,8 @@ sudo systemctl status ssh
     (결과 예: `192.168.0.15` 또는 `143.248.xxx.xxx` 등. 보통 첫 번째 숫자가 IP입니다.)
 
 **조합 예시**:
-*   아이디가 `mina`이고 IP가 `192.168.0.15`라면:
-*   입력할 명령어: `ssh mina@192.168.0.15`
+*   아이디가 `brennamacaulay`이고 IP가 `192.168.0.15`라면:
+*   입력할 명령어: `ssh brennamacaulay@192.168.0.15`
 
 ## 3단계: 서버에 Antigravity(Gemini) 설치/활성화
 1.  서버에 접속된 새 VS Code 창이 열립니다.
