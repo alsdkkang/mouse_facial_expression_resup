@@ -1,0 +1,7 @@
+mouse,date_of_birth,treatment,injection_time,notes
+c1,2024-01-15,control,10:00,sham surgery
+c2,2024-01-15,chronic_pain,10:15,CCI model left sciatic nerve
+c3,2024-01-16,control,10:30,sham surgery
+c4,2024-01-16,chronic_pain,10:45,CCI model left sciatic nerve
+c5,2024-01-17,control,11:00,sham surgery
+c6,2024-01-17,chronic_pain,11:15,CCI model left sciatic nerve

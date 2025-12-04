@@ -1,0 +1,34 @@
+# local package
+-e .
+
+# Documentation
+Sphinx
+ghp-import
+insegel
+
+# General
+click
+coverage
+flake8
+black
+python-dotenv>=0.5.1
+
+# Data
+pandas
+tqdm 
+opencv-python-headless
+
+# ML 
+mlflow
+
+# requires `conda install pytables`
+deeplabcut
+tensorflow
+torch
+torchvision 
+torchmetrics
+lightning
+optuna
+
+# For gsutil
+crcmod
